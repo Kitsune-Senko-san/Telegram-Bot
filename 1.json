@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "melodic-furnace-337915",
+  "private_key_id": "eced22c1511ee74a32fca6467501d196a2fe8fef",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDAvLzjjvWSXydd\nha3Ju7lR0MgNRgQZ4heTTIrcmYZFPsuxyUKnJioImHHaI2l/Cih6TSjLxAN/03C0\napUVrt8NnQF0dZBdM8uIjhtJBQY13GW85gqyeOm+qszIHjH9MOx8eIPluelgdF9A\nmiObKr4Qz+BamKL8c7NiqIaV6mtTEOmR+wDbZlZ0Ce27/1DYzleKaDEoKjcnoJjy\nLZKUyeRmyARllRbzIpr4CbYc41osMCDoXQe/n5uUCBY/GcQjRIGUkMduByzuCUP6\nYGb20uXL8dpCmd2vsiATvCdUGEJP4k67a233QL5bSEl+tTEf2pCNLnq66WrzW3K7\nhZYhrrlNAgMBAAECggEAKSRw5tuWwMjWoKBfVXOg7t3UQn8ac4L/mNYrQ0Vzc9cg\niMJHW+Jp8R1HmnLaO3/p3ZeYeIzOWWxDgAPLcM48N433KErLRxX+IdeB7A+qQHec\ncRsjF+93KBgSMDq/3YYiyTw5naGWt5wH1ETDCoWwfmq9f+Fa02yIU6xZVGmuwNN5\nGLGwhwOyNiwtNzrIlcazzwCeH2k1SLAq6+dM1MeWPU0XBWfR8TuL659q1pLvg3W9\ngLKYjyP+aDDu4mDEt8Yp/fTIZlxReVxNf4Kz3QCfpKB7wjVHQJxTTjjQJg6CAdA5\nXYx8xuuXjGbLavxJC/ISluN0Jce8UVjWo35HMgo3SQKBgQD7E/v7ok1Tw0N+xaVy\nWs4xOnoFmz5F25qJ3mEF9sYK+MP10O+WK4OCQB1v1xJjrxXdJDiIHuxWjq4nCYCJ\ncKgxqvViipK4w3kPlsYruMxEg5lBMJe3QAOrquMK2VQtYOgIMM4mGXBVhvMfgdlO\nudM93u7rXWjsuQBDg2gNpfuFVQKBgQDEg/mJJ+kmTZGL5kVN5pH27pzJf60au42V\nrgK/ONO3vj4FzBKldG3pCqWlLTjJLD92gZUTFjiEr0jLwPPgc0U3nRpAMQsw78bj\nubW4D7Td7jBJfj85YefHOdS3ngMBtYAfAqjEQHU2PLDYits3QtLRToCAvpqNxYN0\n3At+8+PkGQKBgQCshIvE2D13y5iJ9/Z5f8lj7AFB7uy4BW/HQaS6+1gS2+GR+xFU\nxutiyPkxCr+Y/Qnx3Fx3s3/C7eDd89p9FYqMLiLTpdGw4KdDPd9G1YCNpzrbny7v\n/C1JfG7q2m/LimWEkzxi02HrcoGFaaxOOsLaJV9XG+TnmyqCOT16+0y6zQKBgH5t\ndbXiwmHNF61MqRu0EgYufxo3lPOU5EL+32+MrNESiK6MGxbtL+T035rD3Du4xt+E\nAJd1/UiHyKqlaYDmSAq+fOv9YXjLWkaZ7KoNGMyK9+/gU+aj8UzADPVQqBiKX3IT\n8OXJnl8VbqTxuJT13dGg0pWBisdY4fjltFOprtzJAoGAB2aWPuSl6M73aBS9CF7E\nNzhA5/D/57fzIi9gqzxKCQlEIAHE9HaKunAQhz7bSONkxDjdsYLCujAxZQPyUiYf\nWsUVd+lZmhnmvZ9hPJR+e3zoTba7/Q05is5805b3kyx7u4U4Ssu7l3Pue8T1G3nK\nRMzx1acc+kN3Mk7GmqUSxDU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "my-stt-sa@melodic-furnace-337915.iam.gserviceaccount.com",
+  "client_id": "111819566455074912899",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/my-stt-sa%40melodic-furnace-337915.iam.gserviceaccount.com"
+}
