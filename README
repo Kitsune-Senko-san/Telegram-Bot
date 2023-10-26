@@ -1,0 +1,19 @@
+Description of the project goals
+
+As a [description of user],
+I want [functionality]
+so that [benefit].
+
+User story #1
+- As a Telegram user, I want to record audio-message to Bot to get what i told from Bot in a text message.
+
+User story #2
+- Also as a Telegram user, I want to find text message using words which were said so that i could get full message with those words.
+
+User story #3
+- Also as a Telegram user, I want to write a message to get this message with the translation
+
+    Used technologies
+
+- Convert Audio to Text with Google Cloud Speech API.
+- Text Translation with Google Translate API in Python.
